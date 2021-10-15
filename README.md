@@ -1,1 +1,1 @@
-# SF-TrafficLight-Model_C-
+# This is a model of the SF TrafficLight system. It includes a PNG creator that makes traffic light intersection PNGs for Google MyMaps to debug. It also has implementations for TrafficLight and TrafficController classes. Finally, when run, the program simulates the time-based light changes of the intersections over some length of time.
